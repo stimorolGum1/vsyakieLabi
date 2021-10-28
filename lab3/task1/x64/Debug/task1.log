@@ -1,4 +1,0 @@
-﻿  task1.c
-C:\Users\Данил\Desktop\Лабы Даши\lab3\task1\task1.c(24,14): warning C4013: print: нет определения; предполагается "extern" с возвратом типа "int"
-task1.obj : error LNK2019: ссылка на неразрешенный внешний символ print в функции main.
-C:\Users\Данил\Desktop\Лабы Даши\lab3\task1\x64\Debug\task1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
