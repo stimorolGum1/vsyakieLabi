@@ -1,0 +1,6 @@
+﻿  task3.c
+C:\Users\Данил\Desktop\Лабы Даши\lab3\task3\task3.c(13,10): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Данил\Desktop\Лабы Даши\lab3\task3\task3.c(13,15): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Данил\Desktop\Лабы Даши\lab3\task3\task3.c(19,27): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Данил\Desktop\Лабы Даши\lab3\task3\task3.c(31,10): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task3.vcxproj -> C:\Users\Данил\Desktop\Лабы Даши\lab3\task3\Debug\task3.exe
